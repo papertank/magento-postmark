@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Papertank_Postmark>
+			<version>0.1.0</version>
+		</Papertank_Postmark>
+	</modules>
+	<global>
+		<models>
+			<core>
+				<rewrite>
+					<email_template>Papertank_Postmark_Model_Email_Template</email_template>
+				</rewrite>
+			</core>
+		</models>
+	</global>
+</config>

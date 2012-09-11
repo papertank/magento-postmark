@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- 
+/**
+ * @category	Papertank
+ * @package		Papertank_Postmark
+ * @license		http://www.opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+ */
+ -->
+<config>
+    <modules>
+        <Papertank_Postmark>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Papertank_Postmark>
+    </modules>
+</config>
